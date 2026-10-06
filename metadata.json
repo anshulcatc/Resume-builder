@@ -1,0 +1,6 @@
+{
+  "name": "IIM Resume Builder & Formatter",
+  "description": "Professional 1-page compact resume builder recreating the premier IIM placement CV format with live character counters, density analyzer, AI bullet improver, and PDF/DOCX export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
